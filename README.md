@@ -1,4 +1,4 @@
-#Kaggle competiton
+# Kaggle competiton
 
 We competed in a university kaggle competition to detect fake job advertisements. We were a team of 5 people and split the data analysis evenly. We decided each person take a column to analyse according to data type. 
 
