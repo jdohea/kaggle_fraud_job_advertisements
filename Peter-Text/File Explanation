@@ -1,0 +1,14 @@
+Train/Test 1:
+  All string features included and normalized.
+Train/Test 2:
+  Normalized 'company_profile' only.
+-------------------------------------------
+String Spelling Correction
+Train/Test 3:
+  All correction features (normalized correction ratio & normalized SymSpell edit distance).
+Train/Test 4:
+  'company_profile' normalized correction ratio & normalized SymSpell edit distance.
+Train/Test 5:
+  Normaized Correction Ratio for all string features.
+Train/Test 6:
+  Normalized edit distance for all string features.

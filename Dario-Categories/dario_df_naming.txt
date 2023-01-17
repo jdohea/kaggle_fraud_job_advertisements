@@ -1,0 +1,5 @@
+The configuration for each df are as follows:
+-1: Industry and function features only with each of the relevant categories (> 10% or < 2%)
+	and the others grouped as one category
+-2: All the relevant industry and function categories as two groups (>10% group and <2% group)
+-3: Industry and function features dropped

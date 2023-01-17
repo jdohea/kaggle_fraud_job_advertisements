@@ -1,0 +1,16 @@
+Number 1:
+    This is a feature per state, region, and country. There is one hot encoded like feature for each location that has a significant rate of fraud in the train data set. Significant in this case if there is 10 records and the location has a rate fo fraud of less than 0.02 or greater than 0.1
+
+Number 2:
+    Feature per location type and whether or not it is a high or low risk region
+    There are only 6 features in this file
+
+Number 3:
+    one single column
+    value 1 if in a high risk location
+    value -1 if in a low risk location
+    value 0 if neither
+
+Number 4:
+    Same as number 3 but with more significant locations
+    ie only gets a high risk value of 1 if the rate of fraud is greater than 0.15 and there is more than 15 records used to calculate the rate
